@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'chandan.satyendra.prasad'
+group 'sojal.dhanure'
 version '1.0-SNAPSHOT'
 
 repositories {
